@@ -1,0 +1,17 @@
+v0.9.3   09/02/2017	- Initial Release
+
+
+Errata
+- LED Current Control not correct
+- Version numbers for optional MSP430 or FPGA are not tested
+- IP Address/hostname change is not working.
+- Trigger Period/delay  not implemented in pattern sequence mode
+- Command triggers do not always switch correctly.
+
+To Do (list of features/changes planned but not yet implemented):
+- No TI support of MBMC
+- Trigger Output
+- LED Temperature Readout
+- Splash Screen Creation Utility
+- Selection of splash screen
+- External Triggers
